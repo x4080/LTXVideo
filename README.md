@@ -14,4 +14,4 @@ This is the official repository for LTX-Video.
 
 
 # Windows installation
- - 
+ - https://youtu.be/nur4_b4yzM0
