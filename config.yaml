@@ -1,9 +1,9 @@
 ckpt_dir: "Lightricks/LTX-Video"
-num_inference_steps: 50
+num_inference_steps: 40
 guidance_scale: 3.5
-height: 576
-width: 1024
-num_frames: 161
+height: 480
+width: 720
+num_frames: 81
 frame_rate: 25
 prompt: "A young girl with blond hair wearing a yellow jacket stands in a forest and looks around. She has light skin and her hair is styled with a middle part. She looks to the left and then to the right, her gaze lingering in each direction. The camera angle is low, looking up at the girl, and remains stationary throughout the video. The background is slightly out of focus, with green trees and the sun shining brightly behind the girl. The lighting is natural and warm, with the sun creating a lens flare that moves across the girl’s face. real-life footage"
 negative_prompt: "low quality, worst quality, deformed, distorted, disfigured, motion smear, motion artifacts, fused fingers, bad anatomy, weird hand, ugly"
